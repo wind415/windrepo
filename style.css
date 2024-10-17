@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    max-width: 300px;
+    position: absolute;
+    align-content: center;
+    justify-content: center;
+    margin: 30px;
+}
+
+.btn {
+    position: relative;
+    display: inline-block;
+    background-color: aqua;
+    width: 70;
+    height: 40px;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+#in_1 {
+    background-color: blue;
+}
+
+input {
+    margin-bottom: 10px;
+    margin-left: 3px;
+    font-size: 23px;
+}
